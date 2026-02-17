@@ -1,6 +1,6 @@
 # Eye-State Classification from EEG Data 🧠
 
-This project utilizes supervised machine learning to classify whether a subject's eyes are open or closed based on EEG scan data. This research was conducted as part of my Applied Math studies at Emory University.
+This project utilizes supervised machine learning to classify whether a subject's eyes are open or closed based on EEG scan data. This research was conducted as part of my math studies at Emory University.
 
 ## 📊 Project Overview
 The goal of this project is to analyze **frequency-band power** extracted from EEG scans to predict cognitive states. By processing raw brainwave data into power spectral density across different frequency bands, we can train models to distinguish between "eyes open" and "eyes closed" states with high accuracy.
